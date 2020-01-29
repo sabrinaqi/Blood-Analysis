@@ -31,6 +31,9 @@ def cholesterol_analysis():
 		else:
     			print("We do not test for this")
 
+def new_feature():
+    	pass #says pass over this line
+
 def interface():
 		while True:
 				print("Cholesterol Calculator")
